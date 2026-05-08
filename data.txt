@@ -1,0 +1,65 @@
+
+Python is a high level programming language used for artificial intelligence and data science.
+Machine learning allows systems to learn patterns from data without being explicitly programmed.
+Deep learning is a subset of machine learning based on neural networks.
+Artificial intelligence is transforming industries like healthcare, education and finance.
+Data science involves statistics, programming and domain knowledge to extract insights.
+
+Java is a widely used object oriented programming language in enterprise applications.
+Java is used for backend development, Android apps and large scale systems.
+C++ is a powerful programming language used in system programming and game development.
+C language is the foundation of many modern programming languages.
+
+Web development includes frontend and backend development using HTML CSS and JavaScript.
+Frontend development focuses on user interface and user experience design.
+Backend development handles server side logic and database management.
+React is a JavaScript library used for building user interfaces.
+
+Database systems store and manage structured data efficiently.
+SQL is used to query and manage relational databases.
+MongoDB is a NoSQL database used for flexible data storage.
+Data warehouses are used for analytical processing and reporting.
+
+Cloud computing provides services like storage servers and databases over the internet.
+Amazon Web Services is a popular cloud computing platform.
+Microsoft Azure offers cloud services for building and deploying applications.
+
+Cybersecurity focuses on protecting systems networks and data from attacks.
+Encryption is used to secure sensitive information.
+Firewalls help prevent unauthorized access to networks.
+
+Operating systems manage computer hardware and software resources.
+Linux is an open source operating system widely used in servers.
+Windows is a popular operating system for personal computers.
+
+Mobile app development includes Android and iOS application development.
+Flutter is a framework for building cross platform mobile applications.
+Kotlin is used for Android development.
+
+Artificial neural networks are inspired by the human brain structure.
+Natural language processing enables computers to understand human language.
+Computer vision allows machines to interpret and analyze images.
+
+Big data refers to extremely large datasets that require special tools to process.
+Hadoop is used for distributed storage and processing of big data.
+Spark is a fast data processing engine for large scale analytics.
+
+Software engineering is the process of designing developing and maintaining software systems.
+Agile methodology is used for iterative software development.
+Version control systems like Git help manage code changes.
+
+Programming languages evolve to solve different types of problems efficiently.
+Python is popular for beginners due to its simple syntax.
+R is used for statistical analysis and data visualization.
+
+Machine learning models require training data to improve accuracy over time.
+Supervised learning uses labeled data for training models.
+Unsupervised learning finds hidden patterns in data.
+
+Search engines like Google use complex algorithms to rank web pages.
+Information retrieval systems help users find relevant documents quickly.
+Ranking algorithms determine the order of search results.
+
+Human computer interaction focuses on designing user friendly systems.
+User experience design improves how users interact with applications.
+Interface design ensures systems are easy to use and visually appealing.
